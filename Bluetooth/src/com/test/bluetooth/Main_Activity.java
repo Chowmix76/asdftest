@@ -27,7 +27,7 @@ import android.widget.ListView;
 import android.widget.Toast;
 
 public class Main_Activity extends Activity implements OnItemClickListener {
-
+////fuuuuuuuuuuuckkkkkkkkk
 	ArrayAdapter<String> listAdapter;
 	ListView listView;
 	BluetoothAdapter btAdapter;
